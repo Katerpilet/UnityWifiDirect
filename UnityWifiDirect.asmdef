@@ -1,0 +1,15 @@
+{
+    "name": "UnityWifiDirect",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
