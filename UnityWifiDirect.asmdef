@@ -3,7 +3,8 @@
     "references": [],
     "optionalUnityReferences": [],
     "includePlatforms": [
-        "Android"
+        "Android",
+        "Editor"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
